@@ -1,0 +1,24 @@
+- deep q learning
+- implement papers
+- theory
+- underlying maths
+- regular q learning
+- application of deep q learning
+- agent
+- cv for deep q learning
+- double q learning
+- dueling deep q learning
+- paper to code
+- maths
+
+
+- focus on process not event
+- huge resources
+- experience replay
+
+1.agent and environment
+- rewards (part of the environment)
+- correlation bw tests
+- action -> new state 
+
+action space
