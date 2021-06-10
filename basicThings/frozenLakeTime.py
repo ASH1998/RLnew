@@ -27,7 +27,7 @@
 
 #         obs, reward, done, info = frozen.step(action)
         
-#         if done:
+#         if done: #this is needed to be changed
 #             print("Episode finished after {} timesteps".format(epochs+1))
 #             break
 

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "RLnew",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "E:\\cenvs\\recomendation\\python.exe"
+	}
+}
